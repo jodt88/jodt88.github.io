@@ -2,10 +2,13 @@
 
 This site was created with the intent on showcasing my various works from the past few years.
 
+---
+
 # Bio
 
 My name is Jody Toms. I am currently a senior at LSU, majoring in Computer Science with a minor in History. I have an interest in art and video game design.
 
+---
 
 # Works
 
