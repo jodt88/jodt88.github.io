@@ -14,9 +14,9 @@ My name is Jody Toms. I am currently a senior at LSU, majoring in Computer Scien
 
 ## Games
 
-*FlynnBALL:*
+*FlynnBALL*
 
-This game was made a an assignment for the Video Game Design class given at LSU. Our task was to create a pinball game using our current knowledge of the game engine Unity. This is my first game created using the Unity game engine, as well as my first game in general.
+This game was made as an assignment for the Video Game Design class given at LSU during the Spring 2017 semester. Our task was to create a pinball game using our then current knowledge of the game engine Unity. This is my first game created using the Unity game engine, as well as my first game in general.
 
 * [GitHub Repository](https://github.com/jodt88/FlynnBALL) - Redirects to FlynnBALL's GitHub repository.
 
