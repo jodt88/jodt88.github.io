@@ -1,6 +1,6 @@
 # Welcome
 
-This site was created with the intent on showcasing my various works from the past few years.
+This site was created with the intent on showcasing my various works.
 
 ---
 
@@ -16,7 +16,7 @@ My name is Jody Toms. I am currently a senior at LSU, majoring in Computer Scien
 
 *FlynnBALL*
 
-This game was made as an assignment for the Video Game Design class given at LSU during the Spring 2017 semester. Our task was to create a pinball game using our then current knowledge of the game engine Unity. This is my first game created using the Unity game engine, as well as my first game in general.
+This game was made as an assignment for the Video Game Design class given at LSU during the Spring 2017 semester. Our task was to create a pinball game using our then current knowledge of the game engine Unity 5.5.0f3. The grade for this assignment helped determine the 16 team leaders for the semester long group game project. This game ranked in the top 16 out of a class of 80. This was my first game created using the Unity game engine, as well as my first game in general.
 
 * [GitHub Repository](https://github.com/jodt88/FlynnBALL)
 
@@ -27,6 +27,3 @@ This game was made as an assignment for the Video Game Design class given at LSU
 # Resume
 
 You can download my resume [here](jodt88.github.io/JodyTomsResume.pdf).
-
-
-
