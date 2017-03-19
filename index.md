@@ -1,6 +1,6 @@
 # Welcome
 
-This site was created with the intent on showcasing my various works.
+This site was created with the intent of showcasing my various works.
 
 ---
 
@@ -21,6 +21,14 @@ This game was made as an assignment for the Video Game Design class given at LSU
 * [GitHub Repository](https://github.com/jodt88/FlynnBALL)
 
 * [Download from GameJolt](https://gamejolt.com/games/flynnball/233085)
+
+## Group Collaborations
+
+*Innkeeper*
+
+This game is being made as the semester-long project for the Video Game Design class given at LSU during the Spring 2017 semester. Our task is to use our basic knowledge of programming as well as the skills obtained from the class to create a short video game which will be presented to the class at the end of the semester. Our project team consists of four programmers and one artist, with me serving at the project leader. The game is currently unfinished, and is still in the prototyping phase.
+
+* [GitHub Repository](https://github.com/jodt88/CSC4263-ART4240)
 
 ---
 
