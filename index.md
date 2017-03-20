@@ -30,6 +30,16 @@ This game is being made as the semester-long project for the Video Game Design c
 
 * [GitHub Repository](https://github.com/jodt88/CSC4263-ART4240)
 
+# Art
+
+## Physical Work
+
+*St. Amant High School Artwork*
+
+This gallery features physical artwork that was created through my two semesters as an art student at St. Amant High School prior to graduating and attending college. This
+
+[![Alt Text](jodt88.github.io/st. amant art thumbnail.PNG)](https://goo.gl/photos/UL9tkj1vcSSvMaTo8)
+
 ---
 
 # Resume
