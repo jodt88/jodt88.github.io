@@ -34,6 +34,32 @@ This game is being made as the semester-long project for the Video Game Design c
 
 # Art
 
+## Photography
+
+*Home*
+
+Prior to the photography exam for St. Amant High School's Advanced Placement Studio Art class, I was experimenting with various locales around my home to find a theme. While this theme was not chosen in the end, I feel they provide a nice backdrop to demonstrate principles learned in the class.
+
+[![Alt Text](jodt88.github.io/home photos thumbail.PNG)](https://goo.gl/photos/EieAbDMQqZsfqXfX9)
+
+*Rain*
+
+This series is a continuation of the experimental process I took to find a theme for Studio Art's midterm exam.
+
+[![Alt Text](jodt88.github.io/rain photos thumbnail.PNG)](https://goo.gl/photos/R5hMmLmafovY3Zpw6)
+
+*Orange*
+
+This series consists of various satsumas from a tree in my backyard. While most of the satsuma's remained fresh on the tree, a few had fallen to the ground and began to rot. It was here that I found the theme for my Studio Art photography Midterm exam.
+
+[![Alt Text](jodt88.github.io/orange photos thumbnail.PNG)](https://goo.gl/photos/o8uaqTQFur6j29RVA)
+
+*Rot: St. Amant High School Advanced Placement Studio Art Exam*
+
+This extensive series attempts to demonstrate the artistic principles obtained from my time as an art student. I purchased fruit from a local market, and left them out to rot over a course of several days. The rotting provided various gross, yet interesting textures. Fruits like the pinapple, and the inside of a pumpkin demonstrated repition.
+
+[![Alt Text](jodt88.github.io/rot photos thumbnail.PNG)](https://goo.gl/photos/X9SbVDpYnY6DVxJ66)
+
 ## Physical Work
 
 *St. Amant High School Artwork*
