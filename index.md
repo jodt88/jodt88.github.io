@@ -1,12 +1,12 @@
-# Welcome
-
-This site was created with the intent of showcasing my various works.
-
----
-
 # Bio
 
 My name is Jody Toms. I am currently a senior at LSU, majoring in Computer Science with a minor in History. I have an interest in art and video game design.
+
+---
+
+# Résumé
+
+You can download my résumé [here](jodt88.github.io/JodyTomsResume.pdf).
 
 ---
 
@@ -44,19 +44,19 @@ Prior to the photography exam for St. Amant High School's Advanced Placement Stu
 
 *Rain*
 
-This series is a continuation of the experimental process I took to find a theme for Studio Art's midterm exam.
+This series is a continuation of the experimental process I took to find a theme for Studio Art's photography exam.
 
 [![Alt Text](jodt88.github.io/rain photos thumbnail.PNG)](https://goo.gl/photos/R5hMmLmafovY3Zpw6)
 
 *Orange*
 
-This series consists of various satsumas from a tree in my backyard. While most of the satsuma's remained fresh on the tree, a few had fallen to the ground and began to rot. It was here that I found the theme for my Studio Art photography Midterm exam.
+This series consists of various satsumas from a tree in my backyard. While most of the satsuma's remained fresh on the tree, a few had fallen to the ground and began to rot. It was here that I found the theme for my Studio Art photography exam.
 
 [![Alt Text](jodt88.github.io/orange photos thumbnail.PNG)](https://goo.gl/photos/o8uaqTQFur6j29RVA)
 
-*Rot: St. Amant High School Advanced Placement Studio Art Exam*
+*Rot (St. Amant High School Advanced Placement Studio Art Exam)*
 
-This extensive series attempts to demonstrate the artistic principles obtained from my time as an art student. I purchased fruit from a local market, and left them out to rot over a course of several days. The rotting provided various gross, yet interesting textures. Fruits like the pinapple, and the inside of a pumpkin demonstrated repition.
+This extensive series attempts to demonstrate the artistic principles obtained from my time as an art student. I purchased fruit from a local market, and left them out to rot over a course of several days. The rotting provided various gross, yet interesting textures. Fruits like the pinapple, and the inside of a pumpkin demonstrated repition as well.
 
 [![Alt Text](jodt88.github.io/rot photos thumbnail.PNG)](https://goo.gl/photos/X9SbVDpYnY6DVxJ66)
 
@@ -67,9 +67,3 @@ This extensive series attempts to demonstrate the artistic principles obtained f
 This gallery features physical artwork that was created during my two semesters as an art student at St. Amant High School prior to graduating and attending college.
 
 [![Alt Text](jodt88.github.io/st. amant art thumbnail.PNG)](https://goo.gl/photos/UL9tkj1vcSSvMaTo8)
-
----
-
-# Resume
-
-You can download my resume [here](jodt88.github.io/JodyTomsResume.pdf).
