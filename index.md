@@ -4,9 +4,9 @@ My name is Jody Toms. I am currently a senior at LSU, majoring in Computer Scien
 
 ---
 
-# Résumé
+# Resume
 
-You can download my résumé [here](jodt88.github.io/JodyTomsResume.pdf).
+You can download my resume [here](jodt88.github.io/JodyTomsResume.pdf).
 
 ---
 
