@@ -24,9 +24,9 @@ This game was made as an assignment for the Video Game Design class given at LSU
 
 ## Group Collaborations
 
-*Innkeeper*
+*InnKeeper*
 
-This game is being made as the semester-long project for the Video Game Design class given at LSU during the Spring 2017 semester. Our task is to use our basic knowledge of programming as well as the skills obtained from the class to create a short video game which will be presented to the class at the end of the semester. Our project team consists of four programmers and one artist, with me serving at the project leader. The game is currently unfinished, and is still in the prototyping phase.
+This game is being made as the semester-long project for the Video Game Design class given at LSU during the Spring 2017 semester. Our task was to use our basic knowledge of programming as well as the skills obtained from the class to create a short video game which was presented to the class at the end of the semester. Our project team consists of four programmers and one artist, with me serving as the project leader. The game is in an early build; playable, but not without its bugs.
 
 * [GitHub Repository](https://github.com/jodt88/CSC4263-ART4240)
 
