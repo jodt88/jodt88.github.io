@@ -1,6 +1,6 @@
 # Bio
 
-My name is Jody Toms. I am currently a senior at LSU, majoring in Computer Science with a minor in History. I have an interest in art and video game design.
+My name is Jody Toms. I recieved my Bachelor's Degree from LSU in May 2017, where I majored in Computer Science and minored in History. The first two year's of my college career was spent at Baton Rouge Community College, trying to determine my area of interest. I have completed their requirements for the Associate's Degree, but am awaiting to recieve it via the mail.
 
 ---
 
@@ -20,15 +20,19 @@ This game was made as an assignment for the Video Game Design class given at LSU
 
 * [GitHub Repository](https://github.com/jodt88/FlynnBALL)
 
+* [Direct Download for Windows](jodt88.github.io/flynnball_windows.zip)
+
 * [Download from GameJolt](https://gamejolt.com/games/flynnball/233085)
 
 ## Group Collaborations
 
 *InnKeeper*
 
-This game is being made as the semester-long project for the Video Game Design class given at LSU during the Spring 2017 semester. Our task was to use our basic knowledge of programming as well as the skills obtained from the class to create a short video game which was presented to the class at the end of the semester. Our project team consists of four programmers and one artist, with me serving as the project leader. The game is in an early build; playable, but not without its bugs.
+This game was originally made as the semester-long project for the Video Game Design class given at LSU during the Spring 2017 semester. Our task was to use our basic knowledge of programming as well as the skills obtained from the class to create a short video game which was presented to the class at the end of the semester. Our project team consists of four programmers and one artist, with me serving as the project leader. The game is in an early build; playable, but not without its bugs. It is best played on wide displays.
 
 * [GitHub Repository](https://github.com/jodt88/CSC4263-ART4240)
+
+* [Direct Download for Windows](jodt88.github.io/innkeeper_windows.zip)
 
 ---
 
