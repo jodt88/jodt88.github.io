@@ -1,6 +1,6 @@
 # Bio
 
-My name is Jody Toms. I recieved my Bachelor's Degree from LSU in May 2017, where I majored in Computer Science and minored in History. The first two year's of my college career was spent at Baton Rouge Community College, trying to determine my area of interest. I have completed their requirements for the Associate's Degree, but am awaiting to recieve it via the mail.
+My name is Jody Toms. I recieved my Bachelor's Degree from LSU in May 2017, where I majored in Computer Science and minored in History. The first two year's of my college career was spent at Baton Rouge Community College, trying to determine my area of interest. I have completed their requirements for the Associate's Degree, and have recieved the degree in May 2017.
 
 ---
 
@@ -16,7 +16,7 @@ You can download my resume [here](jodt88.github.io/JodyTomsResume.pdf).
 
 *FlynnBALL*
 
-This game was made as an assignment for the Video Game Design class given at LSU during the Spring 2017 semester. Our task was to create a pinball game using our then current knowledge of the game engine Unity 5.5.0f3. The grade for this assignment helped determine the 16 team leaders for the semester long group game project. This game ranked in the top 16 out of a class of about 80 students. This was my first game created using the Unity game engine, as well as my first game in general.
+This game was made as an assignment for the Video Game Design class given at LSU during the Spring 2017 semester. Our task was to create a pinball game using our then current knowledge of the game engine Unity 5.5.0f3. The grade for this assignment helped determine the 16 team leaders for the semester long group game project. This game ranked in the top 16 out of a class of about 80 students. This was my first game created using the Unity game engine, as well as my first game overall.
 
 * [GitHub Repository](https://github.com/jodt88/FlynnBALL)
 
@@ -42,7 +42,7 @@ This game was originally made as the semester-long project for the Video Game De
 
 *Home*
 
-Prior to the photography exam for St. Amant High School's Advanced Placement Studio Art class, I was experimenting with various locales around my home to find a theme. While this theme was not chosen in the end, I feel they provide a nice backdrop to demonstrate principles learned in the class.
+Prior to the photography exam for St. Amant High School's Advanced Placement Studio Art class, I was experimenting with various locales around my home to find a theme. While this theme was not chosen in the end, I feel they provide a nice backdrop to demonstrate the artistic principles learned in the class.
 
 [![Alt Text](jodt88.github.io/home photos thumbail.PNG)](https://goo.gl/photos/EieAbDMQqZsfqXfX9)
 
