@@ -60,7 +60,7 @@ This series consists of various satsumas from a tree in my backyard. While most 
 
 *Rot (St. Amant High School Advanced Placement Studio Art Exam)*
 
-This extensive series attempts to demonstrate the artistic principles obtained from my time as an art student. I purchased fruit from a local market, and left them out to rot over a course of several days. The rotting provided various gross, yet interesting textures. Fruits like the pinapple, and the inside of a pumpkin demonstrated repition as well.
+This extensive series attempts to demonstrate the artistic principles obtained from my time as an art student. I purchased fruit from a local market, and left them out to rot over a course of several days. The rotting provided various gross, yet interesting textures. Fruits like the pineapple, and the inside of a pumpkin demonstrated repition as well.
 
 [![Alt Text](jodt88.github.io/rot photos thumbnail.PNG)](https://goo.gl/photos/X9SbVDpYnY6DVxJ66)
 
